@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Li-Wang-UNSW
+- 👋 Hi, I’m @Li Wang@UNSW
 - 👀 I’m interested in computational fluid dynamics
 - 🌱 I’m currently learning to use machine learning to control/predict complex flows
 - 💞️ I’m looking to collaborate on fluid dynamics and machine learning 
